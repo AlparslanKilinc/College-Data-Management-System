@@ -1,5 +1,5 @@
-# CollegeDataBook
-Data Organizer, That has options to search Students & Instructors with ID Number and Textbooks with ISBN Number. 
+# College Data Management System
+Management System that includes options to search Students & Instructors with ID Number and Textbooks with ISBN Number. 
 Insert,Remove and Update Methods for each of them. All information on Students,Instructrions and Textbooks are displayed.
 Exception Handling for wrong input for every method, Switch Panels to go back and forth. Using OOP methods to organize the data. 
 Writing Files and Reading Files.
