@@ -1,8 +1,13 @@
 # College Data Management System
-Management System that includes options to search Students & Instructors with ID Number and Textbooks with ISBN Number. 
-Insert,Remove and Update Methods for each of them. All information on Students,Instructrions and Textbooks are displayed.
-Exception Handling for wrong input for every method, Switch Panels to go back and forth. Using OOP methods to organize the data. 
-Writing Files and Reading Files.
+
+#### Object Orianted Programming:
+
+#### JavaFx:
+
+#### Write/Read Files:
+
+#### Error Handling: 
+
 
 ![image](https://user-images.githubusercontent.com/100721307/165644767-94376ed6-15a2-48dc-90a4-c8f7fd62728b.png)
 
@@ -30,4 +35,3 @@ Updating Error with GPA:
 
 ![image](https://user-images.githubusercontent.com/100721307/165645155-340335dd-c675-4ac2-82c9-315aa694b6b3.png)
 
-This Program will Also remember the changes made and will display accordingly next time launched. 
