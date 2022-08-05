@@ -6,7 +6,7 @@
 * Error Handling
 
 ## Start Up Page
-![image](https://user-images.githubusercontent.com/100721307/165644767-94376ed6-15a2-48dc-90a4-c8f7fd62728b.png)
+![start-up](https://user-images.githubusercontent.com/100721307/183219330-1f8b6ac1-82e2-43d1-8e4b-7a703f70bdf5.jpg)
 
 ## Instruction Options: 
 
