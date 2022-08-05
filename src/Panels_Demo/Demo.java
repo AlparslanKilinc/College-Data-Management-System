@@ -36,18 +36,22 @@ public class Demo extends Application implements Initializable{
 	File file2= new File("Data/Textbooks.dat");
 	 HBox labelbox = new HBox();
 	 VBox root = new VBox();
-	Button Import = new Button("Start");
+	Button Import = new Button("Load Data");
 	Label label = new Label();
+	Label label2 = new Label();
 	
 	label.setMinSize(50, 50);
 	label.setFont(Font.font ("Verdana", 20));
-	label.setText("College Data Book");
+	label.setText("College Data Managment System");
+	label2.setMinSize(50, 50);
+	label2.setFont(Font.font ("Verdana", 16));
+	label2.setText("by Alparslan Kilinc");
 	
 	Import.setPrefSize(70, 30);
 	Import.setMinWidth(175);
 	Import.setOnAction( t ->{
 		if(!file.exists()||!file2.exists()) {
-			System.out.println("Hi");
+			System.out.println("File Test");
 			Import();
 			
 		}
@@ -55,7 +59,7 @@ public class Demo extends Application implements Initializable{
 	});
 	labelbox.getChildren().add(label);
 	labelbox.setAlignment(Pos.CENTER);
-	root.getChildren().addAll(labelbox,Import);
+	root.getChildren().addAll(labelbox,label2,Import);
 	root.setAlignment(Pos.CENTER);
 	
 	Scene scene = new Scene(root,800,950);
