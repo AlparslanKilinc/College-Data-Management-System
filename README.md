@@ -1,9 +1,9 @@
 # College Data Management System
 
-*Object Orianted Programming
-*JavaFx
-*Write/Read Files
-*Error Handling
+* Object Orianted Programming
+* JavaFx
+* Write/Read Files
+* Error Handling
 
 ## Start Up Page
 ![image](https://user-images.githubusercontent.com/100721307/165644767-94376ed6-15a2-48dc-90a4-c8f7fd62728b.png)
